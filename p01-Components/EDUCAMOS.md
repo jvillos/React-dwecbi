@@ -11,7 +11,7 @@ In this practice i'm going to identify the different atoms, molecules and organi
 
 ## Identifying Atomic Design Components:
 
-### Atoms
+## Atoms
 An atom is a basic unit of information, a component of the lowest level. FOr clarity, every atom taken as an example will be displayed on the page Some of the main atoms displayed on the page are:
 
 #### **Buttons:**
@@ -65,7 +65,7 @@ Links inside the page displayed in blue. In this case, they only appear on the c
 
 ![link](./img/image-15.png)
 
-### Molecules
+## Molecules
 
 Molecules are groups of atoms with entity. Here are some of the most relevant:
 
@@ -75,18 +75,65 @@ These are lists of navbar items used to navigate through different pages inside 
 
 ![navbar](./img/image-16.png)
 
-![alt text](./img/image-17.png)
+![navbar footer](./img/image-17.png)
 
 #### **Carousel slide**
 
 The carusel located on top of the page contains various slides. Each one would be a molecule.
 
-![alt text](./img/image-19.png)
+![carousel slide](./img/image-19.png)
 
-### Organisms
+#### **Single new**
+
+In this case, the news section contains only a single new, which acts as a molecule
+
+![new](./img/image-20.png)
+
+#### **Single new in second news section**
+
+This second section of news contains 3 news, each one of them displaying an image, a date, a title and a piece of text, with a link at the bottom.
+
+![new second section](./img/image-21.png)
+
+#### **Links list**
+
+At the bottom of the page we can find two simmilar molecules, one containing a list of links and another one containing contact information. For this example I selected the link list.
+
+![links list](./img/image-22.png)
+
+## Organisms
+
+Organisms are sections of the webpage in charge of a full important function with entity. In a webpage like educamosclm we can only find a few of them.
+
+#### **Header**
+
+Located at the top of the page, displays logos and links to the main functionalities.
+
+![header](./img/image-23.png)
+
+#### **Carousel**
+
+Full carousel containing carousel slides and carousel control.
+
+![carousel](./img/image-24.png)
+
+#### **Full news section**
+
+Here every new is displayed
+
+![full news](./img/image-25.png)
+
+#### **Footer**
+
+Located at the bottom of the page, the footer contains contact information and for links of interest.
+
+![footer](./img/image-26.png)
+
+## Template
 
 
-### Template
+## Page
 
+Full page to show.
 
-### Page
+![fullpage](./img/fullpage.png)
