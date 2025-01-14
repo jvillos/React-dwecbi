@@ -129,11 +129,11 @@ Located at the bottom of the page, the footer contains contact information and f
 
 ![footer](./img/image-26.png)
 
-## Template
-
-
 ## Page
 
 Full page to show.
 
 ![fullpage](./img/fullpage.png)
+
+![fullpage with colors](./img/ColorPage.png)
+
