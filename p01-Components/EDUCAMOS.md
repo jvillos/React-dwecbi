@@ -135,5 +135,9 @@ Full page to show.
 
 ![fullpage](./img/fullpage.png)
 
+BLUE: Atoms
+RED: Molecules
+GREEN: Organisms
+
 ![fullpage with colors](./img/ColorPage.png)
 
